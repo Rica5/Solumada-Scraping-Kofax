@@ -1,0 +1,199 @@
+[33mcommit 4bba184ad4a1a24e11c789a8da4f38029df082f8[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Thu Mar 31 09:02:21 2022 +0300
+
+    CHECK xls data download
+
+[33mcommit 8fb4171bc1f61ee8c09cbd8f1a6198394c587d39[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Thu Mar 31 08:35:50 2022 +0300
+
+    UPTADE location, ISSUE file directories not centered directories
+
+[33mcommit 8cc7de12e79ee21ace4f2beea702da1d7fa31658[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Thu Mar 31 08:23:14 2022 +0300
+
+    UPDATE app start on server.js, helper user controll MOVE to scraping
+
+[33mcommit af66482a43d45fde68a13d6d97210063f95d7ff4[m[33m ([m[1;31morigin/arco-kofax[m[33m, [m[1;32marco-kofax[m[33m)[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Wed Mar 30 15:15:46 2022 +0300
+
+    BUG souci avec version react
+
+[33mcommit 7c441887d4a5ca855088246320ef949d5f8437d7[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Wed Mar 30 15:12:48 2022 +0300
+
+    ADD batch.csv
+
+[33mcommit a14351d0d871716feb1e66fed5ac63ae22c215e7[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Wed Mar 30 10:03:44 2022 +0300
+
+    UPDATE headless scrap, save file as .csv, download
+
+[33mcommit 5d86667619f3e22b10ccf3f642cb94ca7398805d[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Wed Mar 30 09:32:05 2022 +0300
+
+    UPDATE headless true, filter only status ready data
+
+[33mcommit 1b7665298060232a90f3cf4be6a1359874310fca[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Wed Mar 30 09:00:52 2022 +0300
+
+    ADD home page
+
+[33mcommit d4a26bab4df653e38819c50f5b63b2754e98d40d[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Mon Mar 28 15:25:01 2022 +0300
+
+    UPDATE header, scraper
+
+[33mcommit 2ba00035fe7e88914e4fe2a739eb96bcdbbae433[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Mon Mar 28 10:38:59 2022 +0300
+
+    CHECK route home data async wait, ejs table rendering ready, render complete
+
+[33mcommit 2108b516739c11e1a3c4907294a5e7c145a2e77a[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Mon Mar 28 09:48:08 2022 +0300
+
+    CHECK ejs render, static data loading in route home
+
+[33mcommit 75f87ee649f51478352cecee037be624f4e7e4fb[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Fri Mar 25 11:58:39 2022 +0300
+
+    CHECK login bot, select batch status, ISSUE select documents number
+
+[33mcommit 3c67abe4b88084ce6851c894b9fb3131167b5dcf[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Fri Mar 25 11:33:01 2022 +0300
+
+    CHECK login bot, select name (waitSelector)
+
+[33mcommit 83d45116da42c27911d35ac8b84642c179a8f6fa[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Fri Mar 25 08:44:49 2022 +0300
+
+    DELETE csv file
+
+[33mcommit 87dba091bf7a9c736d36064ecc1409fffaff7f81[m[33m ([m[1;31morigin/french-property.com[m[33m)[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Thu Mar 17 13:20:12 2022 +0300
+
+    CHECK login, page browse, save to csv
+
+[33mcommit 7d1f9e88b930131642ef8160cf9013495633126c[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Thu Mar 17 11:36:50 2022 +0300
+
+    CHECK login done, page browse scrap, ISSUE saving to csv
+
+[33mcommit 88543d031aeaf2dc9b517fe6d570e8041baed350[m
+Merge: 5ae6038 e31e4c3
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Wed Mar 16 15:33:07 2022 +0300
+
+    Merge branch 'french-property.com' of https://github.com/harivonyR/puppeteer-webscrap-app into french-property.com
+
+[33mcommit 5ae6038b029f5a5a8d2241fc54ac01957cc53593[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Wed Mar 16 15:30:31 2022 +0300
+
+    CHECK login ok, page browse ok, scrap ok
+
+[33mcommit e31e4c347855c740aaab374226f52e144226d8a4[m
+Author: Harivony RATEFIARISON <33831004+harivonyR@users.noreply.github.com>
+Date:   Wed Mar 16 10:25:22 2022 +0300
+
+    Update README.md
+
+[33mcommit 802f958ea72dd70a5dc3cf107daab90458c218d1[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Wed Mar 16 10:19:24 2022 +0300
+
+    CHECK scraping multiple page
+
+[33mcommit 3fc9b578ccb122cfc9b5594662ca343c2521fc7b[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Wed Mar 16 08:48:56 2022 +0300
+
+    CHECK error catch, load stoped  with x button
+
+[33mcommit da5f3718105f98b200c95b5fd67a58d15012fed0[m[33m ([m[1;31morigin/puppeteer-cheerio[m[33m, [m[1;32mpuppeteer-cheerio[m[33m)[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Tue Mar 15 15:29:30 2022 +0300
+
+    CHECK selection done error throw ISSUE user must click on x button
+
+[33mcommit f0f37955bbe03f4e60bde7aa69917e51e5a33f02[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Tue Mar 15 11:55:46 2022 +0300
+
+    UPDATE scrap on propety 24
+
+[33mcommit 261cf06e466c09630051e04276a531fec1ca3f5a[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Mon Mar 14 14:24:09 2022 +0300
+
+    FIX wait incomming data
+
+[33mcommit e6ab5b7f63e3c938ad9b26f6e58dda413da8577a[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Mon Mar 14 10:18:47 2022 +0300
+
+    UPDATE sparse map, ISSUE unstable returned data
+
+[33mcommit b799ecffed906a08eded9cd6a7b33034608ac925[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Fri Mar 11 14:13:22 2022 +0300
+
+    REMOVE remove logo selector (issues)
+
+[33mcommit 1570cf1dce4dd85ebd93c89178a7bc17cacdce5b[m
+Merge: 4218294 eb8868f
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Fri Mar 11 13:40:05 2022 +0300
+
+    Merge branch 'main' of https://github.com/harivonyR/puppeteer-webscrap-app
+
+[33mcommit 42182949012d69492ab7aa2c56cdaee5fd8bd9fa[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Fri Mar 11 13:38:59 2022 +0300
+
+    ADD save.js
+
+[33mcommit eb8868fa9dabd6cd0913f1b26a4ec2bbec3a73c8[m
+Author: Harivony RATEFIARISON <33831004+harivonyR@users.noreply.github.com>
+Date:   Thu Mar 10 14:50:16 2022 +0300
+
+    Update README.md
+
+[33mcommit 4f21e73397f3db6093b9c0849f5b6717ffc20101[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Thu Mar 10 14:47:39 2022 +0300
+
+    UPDATE return Array of object
+
+[33mcommit fa6074edda7da4d3d32871cb23ed522a6ef769d2[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Thu Mar 10 13:21:13 2022 +0300
+
+    UPDATE scrap simple title
+
+[33mcommit bd2684617282d4bdc5e6fd80ea2936b53853e02a[m
+Author: TensorEleven <harivonyratefiarison@gmail.com>
+Date:   Thu Mar 10 11:32:52 2022 +0300
+
+    Initial commit, puppeteer setup
+
+[33mcommit f79bbba75eac10249ea7f57c4133e0c1bdb734ce[m
+Author: Harivony RATEFIARISON <33831004+harivonyR@users.noreply.github.com>
+Date:   Wed Mar 9 14:29:19 2022 +0300
+
+    Initial commit
