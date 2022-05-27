@@ -92,9 +92,9 @@ async function fetchData(){
                 let data = {
                     index : i+1,
                     batch : row.querySelector('div.x-grid3-col-name').innerText,
-                    priority : row.querySelector('div.x-grid3-col-0').innerText,
-                    client : row.querySelector('div.x-grid3-col-batchType').innerText,
                     document : row.querySelector('div.x-grid3-col-6').innerText,
+                    client : row.querySelector('div.x-grid3-col-batchType').innerText,
+                    priority : row.querySelector('div.x-grid3-col-0').innerText,
                     date : row.querySelector('div.x-grid3-col-2').innerText,
                     status : row.querySelector('div.x-grid3-col-status').innerText
                 }
