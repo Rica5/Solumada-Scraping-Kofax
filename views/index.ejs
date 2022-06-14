@@ -1,0 +1,30 @@
+<%- include('partials/header') -%>
+<!-- Loading div -->
+<div class="loading" id="loding-div">
+    <div>
+        <h3>Scraping ... </h3>
+    </div>
+    <div class="loader" id="loadingAnimation"></div>
+</div>
+
+<!-- Table -->
+<div class="container mt-5">
+    
+    <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+        <thead>
+            <tr>
+                <th>Index</th>
+                <th>Batch</th>
+                <th>Document</th>
+                <th>Client</th>
+                <th>Priority</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+            <tbody>
+                
+            </tbody>
+        </table>
+    </div>
+
+<%- include('partials/footer') -%>
