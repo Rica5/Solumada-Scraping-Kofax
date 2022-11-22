@@ -33,7 +33,7 @@ async function createPage(browser){
 
 /* Login at the first time */
 async function firstLogin(){
-    await page.goto(link)   // page navigate to the main page
+    await page.goto(link)   // page navigate to the main page that is arco scraping when the website is opened for the first moment
         .then(async ()=>{
             console.log('[👍] Login page opened')
             await login(page)                                                               // fill credential for login
@@ -80,7 +80,6 @@ async function fetchData(){
         await page.goto(link)
         .then(()=>console.log("[👍] validation page opened"))
         .catch((e)=>console.log('Goto validation Fail page'))
-    
         // Wait for table selector before scraping
         await page.waitForSelector('.x-grid3-row-table tr',{visible:true,timeout: 5000})
             .then(()=>console.log('Selector ok'))
