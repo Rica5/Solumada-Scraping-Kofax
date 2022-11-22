@@ -81,8 +81,8 @@ async function fetchData(){
         .then(()=>console.log("[👍] validation page opened"))
         .catch((e)=>console.log('Goto validation Fail page'))
         // Wait for table selector before scraping
-        await page.waitForSelector('.x-grid3-row-table tr',{visible:true,timeout: 10000})
-            .then(()=>console.log('Selector ok'))
+        await page.waitForSelector('.x-grid3-row-table tr',{visible:true,timeout: 30000})
+            .then(()=>console.log('Selector ok')).catch((e)=>console.log('Ity',page))
             // error on timeout
 
     let rows = await page.evaluate(
