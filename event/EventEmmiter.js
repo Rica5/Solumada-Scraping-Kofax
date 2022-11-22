@@ -7,5 +7,5 @@ const emiter = new MyEmitter();
 emiter.on('scrapOn', () => {
   console.log('Scraping event triggered bc');
 });
-
+//finaliser
 module.exports = {emiter}
