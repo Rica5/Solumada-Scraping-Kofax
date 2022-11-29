@@ -1,0 +1,1160 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="keywords"
+      content="solumada-clocking"
+    />
+    <meta
+      name="description"
+      content="solumada-clocking"
+    />
+    <meta name="robots" content="noindex,nofollow" />
+    <title>Listes des utilisateurs</title>
+    <!-- Favicon icon -->
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/images1/logo.jpg"
+    />
+    <!-- Custom CSS -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="assets/extra-libs/multicheck/multicheck.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="assets/libs/select2/dist/css/select2.min.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="assets/libs/jquery-minicolors/jquery.minicolors.css"
+    />
+    <link
+      href="assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="/assets/css1/main.css">
+    <link rel="stylesheet" href="assets/libs/bootstrap/dist/css/bootstrap.css">
+    <link href="dist/css/style.min.css" rel="stylesheet" />
+   
+  
+    <link rel="stylesheet" href="assets/magnific-popup/magnific-popup.css">
+  </head>
+
+  <body>
+   
+    <div class="preloader">
+      <div class="lds-ripple">
+        <div class="lds-pos"></div>
+        <div class="lds-pos"></div>
+      </div>
+    </div>
+    <div
+      id="main-wrapper"
+      data-layout="vertical"
+      data-navbarbg="skin5"
+      data-sidebartype="full"
+      data-sidebar-position="absolute"
+      data-header-position="absolute"
+      data-boxed-layout="full"
+    >
+      <!-- ============================================================== -->
+      <!-- Topbar header - style you can find in pages.scss -->
+      <!-- ============================================================== -->
+      <header class="topbar" data-navbarbg="skin5">
+        <nav class="navbar top-navbar navbar-expand-md navbar-dark">
+          <div class="navbar-header" data-logobg="skin5">
+            <!-- ============================================================== -->
+            <!-- Logo -->
+            <!-- ============================================================== -->
+            <a class="navbar-brand" href="/">
+              <!-- Logo icon -->
+              <b class="logo-icon ps-2">
+                <!--You can put here icon as well // <i class="wi wi-sunset"></i> //-->
+                <!-- Dark Logo icon -->
+                <img
+                  src="../assets/images1/logo.jpg"
+                  alt="homepage"
+                  class="light-logo"
+                  width="45"
+                />
+              </b>
+              <!--End Logo icon -->
+              <!-- Logo text -->
+              <span class="logo-text ms-3">
+                <!-- dark Logo text -->
+                <b>SOLUMADA</b>
+              </span>
+            </a>
+            <a
+              class="nav-toggler waves-effect waves-light d-block d-md-none"
+              href="javascript:void(0)"
+              ><i class="ti-menu ti-close"></i
+            ></a>
+            
+          </div>
+          <!-- ============================================================== -->
+          <!-- End Logo -->
+          <!-- ============================================================== -->
+          <div
+            class="navbar-collapse collapse"
+            id="navbarSupportedContent"
+            data-navbarbg="skin5"
+          >
+            <!-- ============================================================== -->
+            <!-- toggle and nav items -->
+            <!-- ============================================================== -->
+           <!-- ============================================================== -->
+            <!-- toggle and nav items -->
+            <!-- ============================================================== -->
+            <ul class="navbar-nav float-start me-auto">
+              
+              <!-- ============================================================== -->
+              <!-- create new -->
+              <!-- ============================================================== -->
+              <!-- ============================================================== -->
+              <!-- Search -->
+              <!-- ============================================================== -->
+            </ul>
+            <!-- ============================================================== -->
+            <!-- Right side toggle and nav items -->
+            <!-- ============================================================== -->
+            <ul class="navbar-nav float-end">
+              <!-- ============================================================== -->
+              <!-- Comment -->
+              <!-- ============================================================== -->
+              <!-- ============================================================== -->
+              <!-- End Comment -->
+              <!-- ============================================================== -->
+              <!-- ============================================================== -->
+              <!-- Messages -->
+              <!-- ============================================================== -->
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle waves-effect waves-dark"
+                  href="#"
+                  id="2"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  <i class="font-24 mdi mdi-bell"><span style="color:red" id="nbr-notif" class="badge">0</span></i>
+                </a>
+                <ul
+                  class="
+                    dropdown-menu dropdown-menu-end
+                    mailbox
+                    animated
+                    bounceInDown
+                  "
+                  aria-labelledby="2"
+                >
+                <ul id="card-notif" class="list-style-none">
+                  <li>
+                    <div class="">
+                      <!-- Notif -->
+                      <a href="javascript:void(0)" class="link border-top">
+                        <div class="d-flex no-block align-items-center p-10">
+                          <span
+                            class="
+                              btn btn-success btn-circle
+                              d-flex
+                              align-items-center
+                              justify-content-center
+                            "
+                            ><i id="ring"  class="mdi mdi-bell text-white fs-4"></i
+                          >
+                          </span>
+                          <div class="ms-2">
+                            <h5 class="mb-0">Notification aujourd'hui</h5>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </li>
+                </ul>
+                </ul>
+              </li>
+              <!-- ============================================================== -->
+              <!-- End Messages -->
+              <!-- ============================================================== -->
+
+              <!-- ============================================================== -->
+              <!-- User profile and search -->
+              <!-- ============================================================== -->
+              <li class="nav-item dropdown">
+                <a
+                  class="
+                    nav-link
+                    dropdown-toggle
+                    text-muted
+                    waves-effect waves-dark
+                    pro-pic
+                  "
+                  href="#"
+                  id="navbarDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  <img
+                    src="../assets/images/users/1.jpg"
+                    alt="user"
+                    class="rounded-circle"
+                    width="31"
+                  />
+                </a>
+                <ul
+                  class="dropdown-menu dropdown-menu-end user-dd animated"
+                  aria-labelledby="navbarDropdown"
+                >
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/exit_a"
+                    ><i class="fa fa-power-off me-1 ms-1"></i> Logout</a
+                  >
+                </ul>
+              </li>
+              <!-- ============================================================== -->
+              <!-- User profile and search -->
+              <!-- ============================================================== -->
+            </ul>
+             
+          </div>
+        </nav>
+      </header>
+      <!-- ============================================================== -->
+      <!-- End Topbar header -->
+      <!-- ============================================================== -->
+      <!-- ============================================================== -->
+      <!-- Left Sidebar - style you can find in sidebar.scss  -->
+      <!-- ============================================================== -->
+      <aside class="left-sidebar" data-sidebarbg="skin5">
+        <!-- Sidebar scroll-->
+        <div class="scroll-sidebar">
+          <!-- Sidebar navigation-->
+          <nav class="sidebar-nav" >
+            <ul id="sidebarnav" class="pt-4">
+                <li class="sidebar-item">
+                    <a
+                      class="sidebar-link waves-effect waves-dark sidebar-link"
+                      href="/home"
+                      aria-expanded="false"
+                      ><i class="mdi mdi-view-dashboard"></i
+                      ><span class="hide-menu">Dashboard</span></a
+                    >
+                  </li>
+              <li class="sidebar-item">
+                <a
+                  class="sidebar-link waves-effect waves-dark sidebar-link"
+                  href="/management"
+                  aria-expanded="false"
+                  ><i class="mdi mdi-border-inside"></i
+                  ><span class="hide-menu">Status</span></a
+                >
+              </li>
+              <li class="sidebar-item">
+                <a
+                  class="sidebar-link waves-effect waves-dark sidebar-link"
+                  href="/userlist"
+                  aria-expanded="false"
+                  ><i class="mdi mdi-account-key"></i
+                  ><span class="hide-menu">Liste utilisateurs</span></a
+                >
+              </li>
+              <li class="sidebar-item">
+                <a
+                  class="sidebar-link waves-effect waves-dark sidebar-link"
+                  href="/details"
+                  aria-expanded="false"
+                  ><i class="mdi mdi-calendar-range"></i
+                  ><span class="hide-menu">Feuille de temps</span></a
+                >
+              </li>
+              <li class="sidebar-item">
+                <a
+                  class="sidebar-link waves-effect waves-dark sidebar-link"
+                  href="/fiche"
+                  aria-expanded="false"
+                  ><i class="far fa-file-pdf"></i
+                  ><span class="hide-menu">Fiche de paie</span></a
+                >
+              </li>
+              <li class="sidebar-item">
+                <a
+                  class="sidebar-link has-arrow waves-effect waves-dark"
+                  href="javascript:void(0)"
+                  aria-expanded="false"
+                  ><i class="mdi mdi-clock-alert"></i
+                  ><span class="hide-menu">Retard </span></a
+                >
+                <ul aria-expanded="false" class="collapse first-level">
+                  <li class="sidebar-item">
+                    <a href="/validelate" class="sidebar-link"
+                      ><i class="mdi mdi-alarm-check"></i
+                      ><span class="hide-menu"> Validation de retard </span></a
+                    >
+                  </li>
+                  <li class="sidebar-item">
+                    <a href="/latelist" class="sidebar-link"
+                      ><i class="mdi mdi-format-list-bulleted"></i
+                      ><span class="hide-menu"> List des retards </span></a
+                    >
+                  </li>
+                 
+                  </li>
+            </ul>
+            <li class="sidebar-item">
+              <a
+                class="sidebar-link has-arrow waves-effect waves-dark"
+                href="javascript:void(0)"
+                aria-expanded="false"
+                ><i class="mdi mdi-account-card-details"></i
+                ><span class="hide-menu">Absence ou Congé </span></a
+              >
+              <ul aria-expanded="false" class="collapse first-level">
+                <li class="sidebar-item">
+                  <a href="/valideabsence" class="sidebar-link"
+                    ><i class="mdi mdi-account-check"></i
+                    ><span class="hide-menu"> Validation des absences </span></a
+                  >
+                </li>
+                <li class="sidebar-item">
+                  <a href="/absencelist" class="sidebar-link"
+                    ><i class="mdi mdi-format-list-bulleted"></i
+                    ><span class="hide-menu"> Liste des absences </span></a
+                  >
+                </li>
+                </li>
+                <li class="sidebar-item">
+                  <a
+                    class="sidebar-link has-arrow waves-effect waves-dark"
+                    href="javascript:void(0)"
+                    aria-expanded="false"
+                    ><i class="mdi mdi-account-off"></i
+                    ><span class="hide-menu">Congé </span></a
+                  >
+                  <ul aria-expanded="false" class="collapse first-level">
+                    <li class="sidebar-item">
+                      <a href="/leavelist" class="sidebar-link"
+                        ><i class="mdi mdi-format-list-bulleted"></i
+                        ><span class="hide-menu">List des conges (global)</span></a
+                      >
+                    </li>
+                    <li class="sidebar-item">
+                      <a href="/leave" class="sidebar-link"
+                        ><i class="mdi mdi-account-off"></i
+                        ><span class="hide-menu"> Definir un congé</span></a
+                      >
+                    </li>
+                   
+                    </li>
+          </nav>
+          <!-- End Sidebar navigation -->
+        </div>
+        <!-- End Sidebar scroll-->
+      </aside>
+      <!-- ============================================================== -->
+      <!-- End Left Sidebar - style you can find in sidebar.scss  -->
+      <!-- ============================================================== -->
+      <!-- ============================================================== -->
+      <!-- Page wrapper  -->
+      <!-- ============================================================== -->
+      <div class="page-wrapper">
+        <!-- ============================================================== -->
+        <!-- Bread crumb and right sidebar toggle -->
+        <!-- ============================================================== -->
+        <div class="page-breadcrumb">
+          <div class="row">
+            <div class="col-12 d-flex no-block align-items-center">
+              <h4 class="page-title">Liste utilisateurs</h4>
+              <div class="ms-auto text-end">
+                <nav aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">User</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">
+                      Lists
+                    </li>
+                  </ol>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- ============================================================== -->
+        <!-- End Bread crumb and right sidebar toggle -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Container fluid  -->
+        <!-- ============================================================== -->
+        <div class="container-fluid">
+          <!-- ============================================================== -->
+          <!-- Start Page Content -->
+          <!-- ============================================================== -->
+          <div class="row">
+            <div class="col-12">
+              <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title">List of Users</h5>
+                  <div>
+                    <a class="modal-with-form" href="#modal_add_user"><button type="button" class="btn btn-primary btn-sm">
+                      Ajouter utilisateur
+                    </button></a><br>
+                    <div id="notif" class="col-sm-6 notification">
+                            
+                    </div>
+                  </div>
+                  <br>
+                  <div class="table-responsive">
+                    <table
+                      id="zero_config"
+                      class="table table-striped table-bordered"
+                    >
+                      <thead>
+                        <tr>
+                          <th>Nom & Prénom</th>
+                          <th>M_code</th>
+                          <th>Numéro d'agent</th>
+                          <th>Shift</th>
+                          <th>Fonction</th>
+                          <th>Projet(s)</th>
+                          <th>Actions</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <% users.forEach(function(user) { %>
+                          <% if (user.occupation == "User") { %>
+                            <tr>
+                              <td align="center"><%= user.first_name %> <%= user.last_name %></td>
+                              <td align="center"><%= user.m_code %></td>
+                              <td align="center"><%= user.num_agent %></td>
+                              <td align="center"><%= user.shift %></td>
+                              <td align="center"><%= user.occupation %></td>
+                              <td align="center" >
+                                  <select
+                                    class="select2 form-select shadow-none mt-3"
+                                    multiple="multiple"
+                                    style="height: 36px; width:500px "
+                                    id="<%= user.m_code %>"
+                                    onchange="update_project_user('<%= user.m_code %>')"
+                                  >
+                                  <optgroup label="IA">
+                                    <option value="IA (Intelligence Artificielle)"
+                                    <% if (user.project.includes("IA (Intelligence Artificielle)")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >IA (Intelligence Artificielle)</option>
+                                    <option value="Agent Senior IA"
+                                    <% if (user.project.includes("Agent Senior IA")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >Agent Senior IA</option>
+                                  </optgroup>
+                                  <optgroup label="Agrobox">
+                                    <option value="AGROBOX (V1)" 
+                                    <% if (user.project.includes("AGROBOX (V1)")) { %>
+                                        <%- 'selected' %> 
+                                    <% } %>
+                                    >AGROBOX (V1)</option>
+                                    <option value="AGROBOX (V2)"
+                                    <% if (user.project.includes("AGROBOX (V2)")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >AGROBOX (V2)</option>
+                                    <option value="AGROBOX (V3)"
+                                    <% if (user.project.includes("AGROBOX (V3)")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >AGROBOX (V3)</option>
+                                  </optgroup>
+                                  <optgroup label="Arco">
+                                    <option  value="ARCO (V1)"
+                                    <% if (user.project.includes("ARCO (V1)")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >ARCO (V1)</option>
+                                    <option value="ARCO (V2)"
+                                    <% if (user.project.includes("ARCO (V2)")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >ARCO (V2)</option>
+                                    <option value="ARCO (V3)"
+                                    <% if (user.project.includes("ARCO (V3)")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >ARCO (V3)</option>
+                                  </optgroup>
+                                  <optgroup label="Dps">
+                                    <option value="DPS (V1)"
+                                    <% if (user.project.includes("DPS (V1)")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >DPS (V1)</option>
+                                    <option value="DPS (V2)"
+                                    <% if (user.project.includes("DPS (V2)")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >DPS (V2)</option>
+                                    <option value="DPS (V3)"
+                                    <% if (user.project.includes("DPS (V3)")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >DPS (V3)</option>
+                                  </optgroup>
+                                  <optgroup label="Duval">
+                                    <option value="DUVAL"
+                                    <% if (user.project.includes("DUVAL")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >DUVAL</option>
+                                  </optgroup>
+                                  <optgroup label="Gazette">
+                                    <option value="GAZETTE"
+                                    <% if (user.project.includes("GAZETTE")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >GAZETTE</option>
+                                  </optgroup>
+                                  <optgroup label="Giseurope">
+                                    <option value="GISEUROPE"
+                                    <% if (user.project.includes("GISEUROPE")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >GISEUROPE</option>
+                                  </optgroup>
+                                  <optgroup label="Huvepharma">
+                                    <option value="HUVEPHARMA"
+                                    <% if (user.project.includes("HUVEPHARMA")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >HUVEPHARMA</option>
+                                  </optgroup>
+                                  <optgroup label="Jefacture">
+                                    <option value="JEFACTURE"
+                                    <% if (user.project.includes("JEFACTURE")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >JEFACTURE</option>
+                                  </optgroup>
+                                  <optgroup label="Nbb">
+                                    <option value="NBB"
+                                    <% if (user.project.includes("NBB")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >NBB</option>
+                                  </optgroup>
+                                  <optgroup label="Pwc">
+                                    <option value="PWC (V1)"
+                                    <% if (user.project.includes("PWC (V1)")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >PWC (V1)</option>
+                                    <option value="PWC (V2)"
+                                    <% if (user.project.includes("PWC (V2)")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >PWC (V2)</option>
+                                    <option value="PWC (V3)"
+                                    <% if (user.project.includes("PWC (V3)")) { %>
+                                      <%- 'selected' %> 
+                                  <% } %>
+                                    >PWC (V3)</option>
+                                  </optgroup>
+                                  <optgroup label="Reporting Operationnel">
+                                      <option value="REPORTING OPERATIONNEL"
+                                      <% if (user.project.includes("REPORTING OPERATIONNEL")) { %>
+                                        <%- 'selected' %> 
+                                    <% } %>
+                                      >REPORTING OPERATIONNEL</option>
+                                    </optgroup>
+                                    <optgroup label="Spotcheck">
+                                      <option value="SPOTCHECK"
+                                      <% if (user.project.includes("SPOTCHECK")) { %>
+                                        <%- 'selected' %> 
+                                    <% } %>
+                                      >SPOTCHECK</option>
+                                    </optgroup>
+                                    <optgroup label="Up">
+                                      <option value="UP (Unified Post)"
+                                      <% if (user.project.includes("UP (Unified Post)")) { %>
+                                        <%- 'selected' %> 
+                                    <% } %>
+                                      >UP (Unified Post)</option>
+                                    </optgroup>
+                                    <optgroup label="Upc">
+                                      <option value="UPC"
+                                      <% if (user.project.includes("UPC")) { %>
+                                        <%- 'selected' %> 
+                                    <% } %>
+                                      >UPC</option>
+                                    </optgroup>
+                                    <optgroup label="Vandorp">
+                                      <option value="CC VANDORP"
+                                      <% if (user.project.includes("CC VANDORP")) { %>
+                                        <%- 'selected' %> 
+                                    <% } %>
+                                      >CC VANDORP</option>
+                                      <option value="VANDORP (V1)"
+                                      <% if (user.project.includes("VANDORP (V1)")) { %>
+                                        <%- 'selected' %> 
+                                    <% } %>
+                                      >VANDORP (V1)</option>
+                                      <option value="VANDORP (V2)"
+                                      <% if (user.project.includes("VANDORP (V2)")) { %>
+                                        <%- 'selected' %> 
+                                    <% } %>
+                                      >VANDORP (V2)</option>
+                                      <option value="VANDORP (V3)"
+                                      <% if (user.project.includes("VANDORP (V3)")) { %>
+                                        <%- 'selected' %> 
+                                    <% } %>
+                                      >VANDORP (V3)</option>
+                                    </optgroup>
+                                    <optgroup label="Willemen">
+                                      <option value="WILLEMEN (V1)"
+                                      <% if (user.project.includes("WILLEMEN (V1)")) { %>
+                                        <%- 'selected' %> 
+                                    <% } %>
+                                      >WILLEMEN (V1)</option>
+                                      <option value="WILLEMEN (V2)"
+                                      <% if (user.project.includes("WILLEMEN (V2)")) { %>
+                                        <%- 'selected' %> 
+                                    <% } %>
+                                      >WILLEMEN (V2)</option>
+                                      <option value="WILLEMEN (V3)"
+                                      <% if (user.project.includes("WILLEMEN (V3)")) { %>
+                                        <%- 'selected' %> 
+                                    <% } %>
+                                      >WILLEMEN (V3)</option>
+                                    </optgroup>
+                                    </select>
+                                  </td>
+                              <td align="center" style="width: 60px;">
+                                <div class="row" style="width: 100px;">
+                                <div class="col-sm-6 text-left">
+                                  <a class="modal-with-form" href="#modalForm"><button type="button" onclick="getdata('/getuser','<%= user._id %>')" class="btn btn-warning btn-circle btn-sm"><i class="mdi mdi-account-edit"></i></button></a>
+                                </div>
+                                <div class="col-sm-6 text-right">
+                                  <a  class="mb-xs mt-xs mr-xs modal-basic"  href="#modalDanger"><button type="button" onclick='delete_user("<%= user.m_code %>")' class="btn btn-danger btn-circle btn-sm text-right"><i class="fa fa-times-circle"></i></button></a>
+                                </div>
+                              </div>	
+                              </td>
+                            </tr>
+                            <% } else { %>
+                              <tr id="<%= user._id %>">
+                                <td align="center"><b style="opacity: 0%;">aa</b><%= user.first_name %> <%= user.last_name %></td>
+                                <td align="center">N/A</td>
+                                <td align="center">N/A</td>
+                                <td align="center">N/A</td>
+                                <td align="center"><%= user.occupation %></td>
+                                <td align="center">N/A</td>
+                                <td align="center" style="width: 60px;">
+                                  <div class="" class="row" style="width: 100px;">
+                                  <div class="col-sm-12">
+                                    <a class="mb-xs mt-xs mr-xs modal-basic"  href="#modalDanger"><button type="button" onclick='delete_user("<%= user.m_code %>")' class="btn btn-danger btn-circle btn-sm text-center"><i class="fas fa-times-circle"></i></button></a>
+                                  </div>
+                                </div>	
+                                </td>
+                              </tr>
+                          <% } %> 
+                          <% }); %>
+                      </tbody>
+                      <!-- <tfoot>
+                        <tr>
+                          <th>Name</th>
+                          <th>Position</th>
+                          <th>Office</th>
+                        </tr>
+                      </tfoot> -->
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+         
+        </div>
+       
+      </div>
+       <!-- Modal add_user -->
+				<div style="margin-left: 6%;background: rgba(30, 152, 233, 0.5);width:90%;display: flex;" id="modal_add_user" class="modal-block modal-block-primary mfp-hide">
+					<section class="card-body">
+						<div class="card-body">
+              <h3 class="text-center" style="color:aliceblue">INFORMATION SUR L'UTILISATEUR</h3>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group mt-lg">
+                    <label class="col-sm-3 control-label" style="color:aliceblue">E-MAIL</label>
+                    <div class="col-sm-9">
+                      <input type="email" id="add_email" onkeyup="verify_add_input()" class="add_user form-control" placeholder="Entrer l'email ici..." required/>
+                    </div>
+                  </div>
+                  <div class="form-group mt-lg">
+                    <label class="col-sm-3 control-label" style="color:aliceblue">NOM</label>
+                    <div class="col-sm-9">
+                      <input type="text" id="add_nom" onkeyup="verify_add_input()" class="add_user form-control" placeholder="Entrer le nom ici..." required/>
+                    </div>
+                  </div>
+                  <div class="form-group mt-lg">
+                    <label class="col-sm-3 control-label" style="color:aliceblue">PRENOM</label>
+                    <div class="col-sm-9">
+                      <input type="text" id="add_prenom" onkeyup="verify_add_input()" class="add_user form-control" placeholder="Entrer le prénom ici..." required/>
+                    </div>
+                  </div>
+                  <div class="form-group mt-lg">
+                    <label class="col-sm-3 control-label" style="color:aliceblue">PRENOM USUEL</label>
+                    <div class="col-sm-9">
+                      <input type="text" id="add_usuel" onkeyup="verify_add_input()" class="add_user form-control" placeholder="Prénom usuel ici..." required/>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-3">
+                      <div class="form-group mt-lg">
+                        <label class="col-sm-12 control-label" style="color:aliceblue">M-CODE</label>
+                        <div class="col-sm-9">
+                          <input type="text" id="add_mcode" onkeyup="verify_add_input()" class="add_user form-control" placeholder="M-CODE ici..." required/>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4">
+                      <div class="form-group mt-lg">
+                        <label class="col-sm-12 control-label" style="color:aliceblue">NUMERO AGENT</label>
+                        <div class="col-sm-9">
+                          <input type="text" id="add_num_agent" onkeyup="verify_add_input()" class="add_user form-control" placeholder="Numéro agent ici..." required/>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-3">
+                      <div class="form-group mt-lg">
+                        <label class="col-sm-12 control-label" style="color:aliceblue">MATRICULE</label>
+                        <div class="col-sm-9">
+                          <input type="text" id="add_matricule" onkeyup="verify_add_input()" class="add_user form-control" placeholder="Matricule ici..." required/>
+                        </div>
+                      </div>
+                    </div>
+                  </div>           
+                   
+                    <div class="add_user form-group mt-lg">
+                      <div class="row">
+                        <div class="col-md-6">
+                          <label class="col-sm-12 control-label" style="color:aliceblue">FONCTION</label>
+                          <div class="col-sm-12">
+                            <select id="add_fonction" class="select2 form-select shadow-none" onchange="verify_add_input()" style="border-color: transparent;">
+                                            <option value="">Choisir Fonction</option>
+                                            <option value="RH">RH</option>
+                                            <option value="MANAGER">MANAGER</option>
+                                            <option value="TL">Team Leader</option>
+                                            <option value="SHIFT 1">SHIFT 1</option>
+                                            <option value="SHIFT 2">SHIFT 2</option>
+                                            <option value="SHIFT 3">SHIFT 3</option>
+                                            <option value="SHIFT WEEKEND">SHIFT WEEKEND</option>
+                                            <option value="DEV">DEVELOPER</option>
+                                            <option value="GERANT">GERANT</option>
+                                            <option value="ENG">ANGLAIS</option>
+                                            <option value="IT">IT</option>
+                                            <option value="COURSIER">COURSIER</option>
+                                        </select>
+                          </div>
+                        </div>
+                        <div class="col-md-6">
+                          <label class="col-sm-12 control-label" style="color:aliceblue">TYPE D'UTILISATEUR</label>
+                        <select id="add_occup" class="select2 form-select shadow-none" onchange="verify_add_input()" style="border-color: transparent;width:50%;">
+                          <option value="">Choisir le type d'utilisateur</option>
+                            <option value="User">Utilisateur</option>
+                            <option value="Admin">Administrateur</option>
+							              <option value="Checker">Surveillant</option>
+                      </select>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="form-group mt-lg">
+                      <label class="col-sm-3 control-label" style="color:aliceblue">EMBAUCHE</label>
+                      <div class="col-sm-9">
+                        <input type="date" id="add_embauche" onkeyup="verify_add_input()" class="add_user form-control" placeholder="Date d'embauche ici..." required/>
+                      </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group mt-lg">
+                    <label class="col-sm-3 control-label" style="color:aliceblue">CIN</label>
+                    <div class="col-sm-9">
+                      <input type="text" id="add_cin" name="first" onkeyup="verify_add_input()" class="add_user form-control" placeholder="CIN ici..." required/>
+                    </div>
+                  </div>
+                  <div class="form-group mt-lg">
+                    <div class="row">
+                      <div class="add_user col-md-4">
+                        <label class="col-sm-3 control-label" style="color:aliceblue">SEXE</label>
+                        <div class="col-sm-12">
+                            <select id="add_sexe" class="select2 form-select shadow-none" onchange="verify_add_input()" style="border-color: transparent;width:50%;">
+                                            <option value="">Choisir</option>
+                                            <option value="Homme">Homme</option>
+                                            <option value="Femme">Femme</option>
+                                        </select>
+                        </div>
+                      </div>
+                      <div class="col-md-8">
+                        <label class="col-sm-12 control-label" style="color:aliceblue">SITUATION MATRIMONIALE</label>
+                        <div class="add_user col-sm-12">
+                            <select id="add_situation" class="select2 form-select shadow-none" onchange="verify_add_input()" style="border-color: transparent;width:50%;">
+                                            <option value="">Choisir</option>
+                                            <option value="Célibataire">Célibataire</option>
+                                            <option value="Marié(e)">Marié(e)</option>
+                                            <option value="Veuf / Veuve">Veuf / Veuve</option>
+                                        </select>
+                        </div>
+                      </div>
+                    </div>
+                  
+                  </div>
+                    <div class="form-group mt-lg">
+                      <label class="col-sm-3 control-label" style="color:aliceblue">ADRESSE</label>
+                      <div class="col-sm-9">
+                        <input type="text" id="add_adresse" onkeyup="verify_add_input()" class="add_user form-control" placeholder="Enter Adresse ici..." required/>
+                      </div>
+                    </div>
+                                    <div class="form-group mt-lg">
+                      <label class="col-sm-3 control-label" style="color:aliceblue">NUMERO CNAPS</label>
+                      <div class="col-sm-9">
+                        <input type="text" id="add_cnaps"  onkeyup="verify_add_input()" class="add_user form-control" placeholder="Entrer numéro cnaps ici..." required/>
+                      </div>
+                    </div>
+                    <div class="form-group mt-lg">
+                      <label class="col-sm-3 control-label" style="color:aliceblue">CLASSIFICATION</label>
+                      <div class="col-sm-9">
+                        <input type="text" id="add_class" onkeyup="verify_add_input()" class="add_user form-control" placeholder="Enter classification ici..." required/>
+                      </div>
+                    </div>
+                    <div class="form-group mt-lg">
+                      <label class="col-sm-3 control-label" style="color:aliceblue">CONTRAT</label>
+                      <div class="col-sm-9">
+                        <input type="text" id="add_contrat"  onkeyup="verify_add_input()" class="add_user form-control" placeholder="Contrat ici..." required/>
+                      </div>
+                    </div>
+                    <br>
+                    <footer class="card-footer">
+                      <div class="row">
+                        <div class="col-md-6">
+                          <button id ="btn_add" onclick="enregistrer()" class="btn btn-primary modal-confirm">ENREGISTRER L'UTILISATEUR</button>
+                        </div>
+                        <div class="col-md-6">
+                          <button class=" btn btn-danger modal-dismiss" style="color:aliceblue">ANNULER</button>
+                        </div>
+                      </div>
+                        
+                        
+                    </footer>
+                </div>
+              </div>
+						</div>
+					</section>
+				</div>
+     <!-- Modal Add USer -->
+      <!-- Modal Form -->
+				<div style="margin-left: 6%;background: rgba(30, 152, 233, 0.5);width:90%;display: flex;" id="modalForm" class="modal-block modal-block-primary mfp-hide">
+					<section class="card-body">
+						<div class="card-body">
+              <h3 class="text-center" style="color:aliceblue">INFORMATION SUR L'UTILISATEUR</h3>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group mt-lg">
+                    <label class="col-sm-3 control-label" style="color:aliceblue">E-MAIL</label>
+                    <div class="col-sm-9">
+                      <input type="email" id="up_email" onkeyup="verify_up_input()" class="up_user form-control" placeholder="Entrer l'email ici..." required/>
+                    </div>
+                  </div>
+                  <div class="form-group mt-lg">
+                    <label class="col-sm-3 control-label" style="color:aliceblue">NOM</label>
+                    <div class="col-sm-9">
+                      <input type="text" id="up_nom" onkeyup="verify_up_input()" class="up_user form-control" placeholder="Entrer le nom ici..." required/>
+                    </div>
+                  </div>
+                  <div class="form-group mt-lg">
+                    <label class="col-sm-3 control-label" style="color:aliceblue">PRENOM</label>
+                    <div class="col-sm-9">
+                      <input type="text" id="up_prenom" onkeyup="verify_up_input()" class="up_user form-control" placeholder="Entrer le prénom ici..." required/>
+                    </div>
+                  </div>
+                  <div class="form-group mt-lg">
+                    <label class="col-sm-3 control-label" style="color:aliceblue">PRENOM USUEL</label>
+                    <div class="col-sm-9">
+                      <input type="text" id="up_usuel" onkeyup="verify_up_input()" class="up_user form-control" placeholder="Prénom usuel ici..." required/>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-3">
+                      <div class="form-group mt-lg">
+                        <label class="col-sm-12 control-label" style="color:aliceblue">M-CODE</label>
+                        <div class="col-sm-9">
+                          <input type="text" id="up_mcode" onkeyup="verify_up_input()" class="up_user form-control" placeholder="M-CODE ici..." disabled/>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-4">
+                      <div class="form-group mt-lg">
+                        <label class="col-sm-12 control-label" style="color:aliceblue">NUMERO AGENT</label>
+                        <div class="col-sm-9">
+                          <input type="text" id="up_num_agent" onkeyup="verify_up_input()" class="up_user form-control" placeholder="Numéro agent ici..." disabled/>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-3">
+                      <div class="form-group mt-lg">
+                        <label class="col-sm-12 control-label" style="color:aliceblue">MATRICULE</label>
+                        <div class="col-sm-9">
+                          <input type="text" id="up_matricule" onkeyup="verify_up_input()" class="up_user form-control" placeholder="Matricule ici..." disabled/>
+                        </div>
+                      </div>
+                    </div>
+                  </div>           
+                   
+                    <div class="up_user form-group mt-lg">
+                      <div class="row">
+                        <div class="col-md-6">
+                          <label class="col-sm-12 control-label" style="color:aliceblue">FONCTION</label>
+                          <div class="col-sm-12">
+                            <select id="up_fonction" class="select2 form-select shadow-none" onchange="verify_up_input()" style="border-color: transparent;">
+                                            <option value="">Choisir Fonction</option>
+                                            <option value="RH">RH</option>
+                                            <option value="MANAGER">MANAGER</option>
+                                            <option value="TL">Team Leader</option>
+                                            <option value="SHIFT 1">SHIFT 1</option>
+                                            <option value="SHIFT 2">SHIFT 2</option>
+                                            <option value="SHIFT 3">SHIFT 3</option>
+                                            <option value="SHIFT WEEKEND">SHIFT WEEKEND</option>
+                                            <option value="DEV">DEVELOPER</option>
+                                            <option value="GERANT">GERANT</option>
+                                            <option value="ENG">ANGLAIS</option>
+                                            <option value="IT">IT</option>
+                                            <option value="COURSIER">COURSIER</option>
+                                        </select>
+                          </div>
+                        </div>
+                        <div class="col-md-6">
+                          <label class="col-sm-12 control-label" style="color:aliceblue">TYPE D'UTILISATEUR</label>
+                        <select id="up_occup" class="select2 form-select shadow-none" onchange="verify_up_input();change_identifiant()" style="border-color: transparent;width:50%;">
+                          <option value="">Choisir le type d'utilisateur</option>
+                            <option value="User">Utilisateur</option>
+                            <option value="Admin">Administrateur</option>
+							              <option value="Checker">Surveillant</option>
+                      </select>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="form-group mt-lg">
+                      <label class="col-sm-3 control-label" style="color:aliceblue">EMBAUCHE</label>
+                      <div class="col-sm-9">
+                        <input type="date" id="up_embauche" onkeyup="verify_up_input()" class="up_user form-control" placeholder="Date d'embauche ici..." required/>
+                      </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group mt-lg">
+                    <label class="col-sm-3 control-label" style="color:aliceblue">CIN</label>
+                    <div class="col-sm-9">
+                      <input type="text" id="up_cin" name="first" onkeyup="verify_up_input()" class="up_user form-control" placeholder="CIN ici..." required/>
+                    </div>
+                  </div>
+                  <div class="form-group mt-lg">
+                    <div class="row">
+                      <div class="up_user col-md-4">
+                        <label class="col-sm-3 control-label" style="color:aliceblue">SEXE</label>
+                        <div class="col-sm-12">
+                            <select id="up_sexe" class="select2 form-select shadow-none" onchange="verify_up_input()" style="border-color: transparent;width:50%;">
+                                            <option value="">Choisir</option>
+                                            <option value="Homme">Homme</option>
+                                            <option value="Femme">Femme</option>
+                                        </select>
+                        </div>
+                      </div>
+                      <div class="col-md-8">
+                        <label class="col-sm-12 control-label" style="color:aliceblue">SITUATION MATRIMONIALE</label>
+                        <div class="up_user col-sm-12">
+                            <select id="up_situation" class="select2 form-select shadow-none" onchange="verify_up_input()" style="border-color: transparent;width:50%;">
+                                            <option value="">Choisir</option>
+                                            <option value="Célibataire">Célibataire</option>
+                                            <option value="Marié(e)">Marié(e)</option>
+                                            <option value="Veuf / Veuve">Veuf / Veuve</option>
+                                        </select>
+                        </div>
+                      </div>
+                    </div>
+                  
+                  </div>
+                    <div class="form-group mt-lg">
+                      <label class="col-sm-3 control-label" style="color:aliceblue">ADRESSE</label>
+                      <div class="col-sm-9">
+                        <input type="text" id="up_adresse" onkeyup="verify_up_input()" class="up_user form-control" placeholder="Enter Adresse ici..." required/>
+                      </div>
+                    </div>
+                                    <div class="form-group mt-lg">
+                      <label class="col-sm-3 control-label" style="color:aliceblue">NUMERO CNAPS</label>
+                      <div class="col-sm-9">
+                        <input type="text" id="up_cnaps"  onkeyup="verify_up_input()" class="up_user form-control" placeholder="Entrer numéro cnaps ici..." required/>
+                      </div>
+                    </div>
+                    <div class="form-group mt-lg">
+                      <label class="col-sm-3 control-label" style="color:aliceblue">CLASSIFICATION</label>
+                      <div class="col-sm-9">
+                        <input type="text" id="up_class" onkeyup="verify_up_input()" class="up_user form-control" placeholder="Enter classification ici..." required/>
+                      </div>
+                    </div>
+                    <div class="form-group mt-lg">
+                      <label class="col-sm-3 control-label" style="color:aliceblue">CONTRAT</label>
+                      <div class="col-sm-9">
+                        <input type="text" id="up_contrat"  onkeyup="verify_up_input()" class="up_user form-control" placeholder="Contrat ici..." required/>
+                      </div>
+                    </div>
+                    <br>
+                    <footer class="card-footer">
+                      <div class="row">
+                        <div class="col-md-6">
+                          <button id ="btn_up" onclick="modifier()" class="btn btn-primary modal-confirm">METTRE A JOUR</button>
+                        </div>
+                        <div class="col-md-6">
+                          <button class=" btn btn-danger modal-dismiss" style="color:aliceblue">ANNULER</button>
+                        </div>
+                      </div>
+                        
+                        
+                    </footer>
+                </div>
+              </div>
+						</div>
+					</section>
+				</div>
+     <!-- Modal Primary -->
+
+     <div style="margin-left: 25%;background: rgba(233, 71, 30, 0.5);width:50%" id="modalDanger" class="modal-block modal-block-danger mfp-hide">
+      <section class="card-body">
+          <header class="panel-heading">
+              <h2 class="panel-title" style="color: aliceblue;">Vous êtes sur?</h2>
+          </header>
+          <div class="card-body">
+              <div class="modal-wrapper">
+                  <div class="modal-icon">
+                      <i class="fa fa-times-circle"></i>
+                  </div>
+                  <div class="modal-text">
+                      <h4 style="color: aliceblue;">Suppression d'utilisateur</h4>
+                      <p id="textwarn"></p>
+                  </div>
+              </div>
+          </div>
+          <footer class="card-footer">
+              <div class="row">
+                  <div class="col-md-12 text-right">
+                      <button class="btn btn-primary modal-confirm" onclick="confirm_del()">Confirm</button>
+                      <button class="btn btn-default modal-dismiss" >Cancel</button>
+                  </div>
+              </div>
+          </footer>
+      </section>
+  </div>
+    </div>
+    <!-- ============================================================== -->
+    <!-- End Wrapper -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+    <!-- All Jquery -->
+    <!-- ============================================================== -->
+    <script src="../assets/libs/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap tether Core JavaScript -->
+    <script src="../assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- slimscrollbar scrollbar JavaScript -->
+    <script src="../assets/libs/perfect-scrollbar/dist/perfect-scrollbar.jquery.min.js"></script>
+    <script src="../assets/extra-libs/sparkline/sparkline.js"></script>
+    <!--Wave Effects -->
+    <script src="../dist/js/waves.js"></script>
+    <!--Menu sidebar -->
+    <script src="../dist/js/sidebarmenu.js"></script>
+    <!--Custom JavaScript -->
+    <script src="../dist/js/custom.min.js"></script>
+    <!-- this page js -->
+    <script src="../assets/extra-libs/multicheck/datatable-checkbox-init.js"></script>
+    <script src="assets/extra-libs/multicheck/jquery.multicheck.js"></script>
+    <script src="../assets/extra-libs/DataTables/datatables.min.js"></script>
+    <script src="assets/magnific-popup/magnific-popup.js"></script>
+    <script src="assets/libs/select2/dist/js/select2.full.min.js"></script>
+    <script src="assets/libs/select2/dist/js/select2.min.js"></script>
+    <script src="assets/js1/examples.modals.js"></script>
+    <script src="/js_code/update_user.js"></script>
+    <script src="/js_code/socket.js"></script>
+    <script>
+      var notif = '<%= notif %>'.split(",");
+      var socket = io();
+      const audio = new Audio("ring.wav");
+      socket.on('notif', function(msg) {
+        setnotification(msg);
+         audio.play();
+     })
+     function setnotification(all_notifications){
+      var notif = '<li>'+
+        '<div class="">'+
+          '<a href="javascript:void(0)" class="link border-top">'+
+            '<div class="d-flex no-block align-items-center p-10">'+
+              '<span'+
+               ' class="'+
+                  'btn btn-success btn-circle'+
+                  'd-flex'+
+                  'align-items-center'+
+                  'justify-content-center"'+
+                
+                '><i id="ring"  class="mdi mdi-bell text-white fs-4"></i>'+
+              '</span>'+
+              '<div class="ms-2">'+
+                '<span id="alert" class="mail-desc"'+
+                  '>Here is a notification for today</span></div></div></a></div></li>';
+      for (i=0;i<all_notifications.length;i++){
+        if (i != 8 && all_notifications[all_notifications.length - (i+1)]  != ""){
+          notif += '<li>'+
+            '<div class="">'+
+              '<a href="javascript:void(0)" class="link border-top">'+
+                '<div class="d-flex no-block align-items-center p-10">'+
+                  '<span'+
+                   ' class="'+
+                      'btn btn-warning btn-circle'+
+                      'd-flex'+
+                      'align-items-center'+
+                      'justify-content-center"'+
+                    
+                    '><i id="ring"  class="mdi mdi-bell text-white fs-4"></i>'+
+                  '</span>'+
+                  '<div class="ms-2">'+
+                    '<span id="alert" class="mail-desc"'+
+                      '>'+all_notifications[all_notifications.length - (i+1)]+'</span></div></div></a></div></li>';
+        } 
+        else{
+          break;
+        }
+      }
+      document.getElementById("card-notif").innerHTML = notif;
+      if (all_notifications[0] != ""){
+        document.getElementById("nbr-notif").innerHTML = all_notifications.length;
+      }
+      else{
+        document.getElementById("nbr-notif").innerHTML = all_notifications.length - 1;
+      }
+    }
+    setnotification(notif);
+    </script>
+    <script>
+      /****************************************
+       *       Basic Table                   *
+       ****************************************/
+      $("#zero_config").DataTable({
+        "pageLength" : 162
+      });
+        $(".select2").select2();
+    </script>
+      
+  </body>
+</html>

@@ -1,0 +1,39 @@
+{
+  "name": "pointage",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pdftron/pdfnet-node": "^9.3.0",
+    "body-parser": "^1.19.1",
+    "cookie-session": "^2.0.0",
+    "cors": "^2.8.5",
+    "dns": "^0.2.2",
+    "ejs": "^3.0.2",
+    "express": "^4.17.2",
+    "express-fileupload": "^1.4.0",
+    "express-session": "^1.17.2",
+    "formidable": "^2.0.1",
+    "fs-extra": "^10.1.0",
+    "http": "^0.0.1-security",
+    "method-override": "^3.0.0",
+    "moment": "^2.29.2",
+    "mongoose": "^6.1.7",
+    "node-sass": "^7.0.3",
+    "nodemailer": "^6.7.3",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "sheetjs-style": "^0.15.8",
+    "socket.io": "^4.4.1"
+  },
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
+}

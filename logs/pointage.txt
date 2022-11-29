@@ -1,0 +1,1818 @@
+internal/modules/cjs/loader.js:329
+      throw err;
+      ^
+
+Error: Cannot find module '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/lib/pdfnet.js'. Please verify that the package.json has a valid "main" entry
+    at tryPackage (internal/modules/cjs/loader.js:321:19)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:534:18)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:888:27)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/home/solumada/clocking/public/route.js:12:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32) {
+  code: 'MODULE_NOT_FOUND',
+  path: '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/package.json',
+  requestPath: '@pdftron/pdfnet-node'
+}
+internal/modules/cjs/loader.js:329
+      throw err;
+      ^
+
+Error: Cannot find module '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/lib/pdfnet.js'. Please verify that the package.json has a valid "main" entry
+    at tryPackage (internal/modules/cjs/loader.js:321:19)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:534:18)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:888:27)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/home/solumada/clocking/public/route.js:12:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32) {
+  code: 'MODULE_NOT_FOUND',
+  path: '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/package.json',
+  requestPath: '@pdftron/pdfnet-node'
+}
+internal/modules/cjs/loader.js:329
+      throw err;
+      ^
+
+Error: Cannot find module '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/lib/pdfnet.js'. Please verify that the package.json has a valid "main" entry
+    at tryPackage (internal/modules/cjs/loader.js:321:19)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:534:18)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:888:27)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/home/solumada/clocking/public/route.js:12:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32) {
+  code: 'MODULE_NOT_FOUND',
+  path: '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/package.json',
+  requestPath: '@pdftron/pdfnet-node'
+}
+internal/modules/cjs/loader.js:329
+      throw err;
+      ^
+
+Error: Cannot find module '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/lib/pdfnet.js'. Please verify that the package.json has a valid "main" entry
+    at tryPackage (internal/modules/cjs/loader.js:321:19)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:534:18)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:888:27)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/home/solumada/clocking/public/route.js:12:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32) {
+  code: 'MODULE_NOT_FOUND',
+  path: '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/package.json',
+  requestPath: '@pdftron/pdfnet-node'
+}
+internal/modules/cjs/loader.js:329
+      throw err;
+      ^
+
+Error: Cannot find module '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/lib/pdfnet.js'. Please verify that the package.json has a valid "main" entry
+    at tryPackage (internal/modules/cjs/loader.js:321:19)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:534:18)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:888:27)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/home/solumada/clocking/public/route.js:12:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32) {
+  code: 'MODULE_NOT_FOUND',
+  path: '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/package.json',
+  requestPath: '@pdftron/pdfnet-node'
+}
+internal/modules/cjs/loader.js:329
+      throw err;
+      ^
+
+Error: Cannot find module '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/lib/pdfnet.js'. Please verify that the package.json has a valid "main" entry
+    at tryPackage (internal/modules/cjs/loader.js:321:19)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:534:18)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:888:27)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/home/solumada/clocking/public/route.js:12:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32) {
+  code: 'MODULE_NOT_FOUND',
+  path: '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/package.json',
+  requestPath: '@pdftron/pdfnet-node'
+}
+internal/modules/cjs/loader.js:329
+      throw err;
+      ^
+
+Error: Cannot find module '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/lib/pdfnet.js'. Please verify that the package.json has a valid "main" entry
+    at tryPackage (internal/modules/cjs/loader.js:321:19)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:534:18)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:888:27)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/home/solumada/clocking/public/route.js:12:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32) {
+  code: 'MODULE_NOT_FOUND',
+  path: '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/package.json',
+  requestPath: '@pdftron/pdfnet-node'
+}
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+internal/modules/cjs/loader.js:329
+      throw err;
+      ^
+
+Error: Cannot find module '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/lib/pdfnet.js'. Please verify that the package.json has a valid "main" entry
+    at tryPackage (internal/modules/cjs/loader.js:321:19)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:534:18)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:888:27)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/home/solumada/clocking/public/route.js:12:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32) {
+  code: 'MODULE_NOT_FOUND',
+  path: '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/package.json',
+  requestPath: '@pdftron/pdfnet-node'
+}
+internal/modules/cjs/loader.js:329
+      throw err;
+      ^
+
+Error: Cannot find module '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/lib/pdfnet.js'. Please verify that the package.json has a valid "main" entry
+    at tryPackage (internal/modules/cjs/loader.js:321:19)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:534:18)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:888:27)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/home/solumada/clocking/public/route.js:12:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32) {
+  code: 'MODULE_NOT_FOUND',
+  path: '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/package.json',
+  requestPath: '@pdftron/pdfnet-node'
+}
+internal/modules/cjs/loader.js:329
+      throw err;
+      ^
+
+Error: Cannot find module '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/lib/pdfnet.js'. Please verify that the package.json has a valid "main" entry
+    at tryPackage (internal/modules/cjs/loader.js:321:19)
+    at Function.Module._findPath (internal/modules/cjs/loader.js:534:18)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:888:27)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/home/solumada/clocking/public/route.js:12:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32) {
+  code: 'MODULE_NOT_FOUND',
+  path: '/home/solumada/clocking/node_modules/@pdftron/pdfnet-node/package.json',
+  requestPath: '@pdftron/pdfnet-node'
+}
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+TypeError: /home/solumada/clocking/public/Working.html:35
+    33|                     <img style="border-radius: 50%;" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/529582/img_avatar3.png" alt="IMG">
+    34|                     <span class="login100-form-title" style="margin-top: 20px;">
+ >> 35|                         <%= user.first_name %>  <%= user.last_name %>
+    36|                     </span>
+    37| 					<div class="text-center ">
+    38| 						<a href="/exit_u"><button class="login10l-form-btn">
+
+Cannot read property 'first_name' of null
+    at eval (eval at compile (/home/solumada/nodevenv/clocking/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:12:31)
+    at Working (/home/solumada/nodevenv/clocking/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/solumada/nodevenv/clocking/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/solumada/nodevenv/clocking/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/solumada/nodevenv/clocking/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/solumada/nodevenv/clocking/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/solumada/nodevenv/clocking/14/lib/node_modules/express/lib/application.js:609:3)
+    at ServerResponse.render (/home/solumada/nodevenv/clocking/14/lib/node_modules/express/lib/response.js:1039:7)
+    at /home/solumada/clocking/public/route.js:732:13
+    at runMicrotasks (<anonymous>)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+/home/solumada/clocking/public/route.js:102
+            if ( await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}).sort({_id:-1})){
+                                                                                                                       ^
+
+SyntaxError: Unexpected token ')'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:101:18)
+    at Object.<anonymous> (/home/solumada/clocking/app.js:5:15)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+../../../Node.js/WorkerInstance.cpp:30: void pdftron::WorkerInstance::PostMessage(const pdftron::WorkerVar&): Assertion `m_eventListeners.find("message") != m_eventListeners.cend()' failed.
+(node:11915) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'length' of undefined
+    at check_ws_name (/home/solumada/nodevenv/clocking/14/lib/node_modules/sheetjs-style/xlsx.js:14821:7)
+    at /home/solumada/nodevenv/clocking/14/lib/node_modules/sheetjs-style/xlsx.js:14832:3
+    at Array.forEach (<anonymous>)
+    at check_wb_names (/home/solumada/nodevenv/clocking/14/lib/node_modules/sheetjs-style/xlsx.js:14831:4)
+    at check_wb (/home/solumada/nodevenv/clocking/14/lib/node_modules/sheetjs-style/xlsx.js:14844:2)
+    at writeSync (/home/solumada/nodevenv/clocking/14/lib/node_modules/sheetjs-style/xlsx.js:20905:2)
+    at Object.writeFileSync (/home/solumada/nodevenv/clocking/14/lib/node_modules/sheetjs-style/xlsx.js:20958:9)
+    at /home/solumada/clocking/public/route.js:2665:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:11915) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:11915) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Invalid date, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:324:25)
+    at configFromString (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:2550:19)
+    at configFromInput (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:2993:13)
+    at prepareConfig (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:2976:13)
+    at createFromConfig (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:2943:44)
+    at createLocalOrUTC (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:3037:16)
+    at createLocal (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:3041:16)
+    at hooks (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:16:29)
+    at /home/solumada/clocking/public/route.js:2141:24
+    at runMicrotasks (<anonymous>)
+(node:29180) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'length' of undefined
+    at /home/solumada/clocking/public/route.js:1480:25
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:29180) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:29180) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:29180) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'length' of undefined
+    at /home/solumada/clocking/public/route.js:1480:25
+(node:29180) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 4)
+Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Invalid date, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:324:25)
+    at configFromString (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:2550:19)
+    at configFromInput (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:2993:13)
+    at prepareConfig (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:2976:13)
+    at createFromConfig (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:2943:44)
+    at createLocalOrUTC (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:3037:16)
+    at createLocal (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:3041:16)
+    at hooks (/home/solumada/nodevenv/clocking/14/lib/node_modules/moment/moment.js:16:29)
+    at /home/solumada/clocking/public/route.js:2141:24
+    at runMicrotasks (<anonymous>)
+(node:48029) UnhandledPromiseRejectionWarning: TypeError: Cannot read property 'length' of undefined
+    at /home/solumada/clocking/public/route.js:1480:25
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:48029) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:48029) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
