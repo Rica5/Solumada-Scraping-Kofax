@@ -45,7 +45,73 @@ var transporter = nodemailer.createTransport({
     pass: "dletiebgggunowhf",
   },
 });
-
+async function daily_restart(req){
+  mongoose
+  .connect(
+    "mongodb+srv://Rica:ryane_jarello5@cluster0.z3s3n.mongodb.net/Pointage?retryWrites=true&w=majority",
+    {
+      useUnifiedTopology: true,
+      UseNewUrlParser: true,
+    }
+  )
+  .then(async () => {
+    var now = moment().format("dddd");
+    var opt_daily = await OptSchema.findOne({_id:"636247a2c1f6301f15470344"});
+    if (now != opt_daily.date_change){
+      await conge_define(req);
+      await checkleave();
+      await leave_permission();
+      notification = [];
+      await OptSchema.findOneAndUpdate({_id:"636247a2c1f6301f15470344"},{date_change:now});
+    }
+    else{
+      console.log("Already done")
+    }
+  })
+}
+async function monthly_restart(){
+  mongoose
+  .connect(
+    "mongodb+srv://Rica:ryane_jarello5@cluster0.z3s3n.mongodb.net/Pointage?retryWrites=true&w=majority",
+    {
+      useUnifiedTopology: true,
+      UseNewUrlParser: true,
+    }
+  )
+  .then(async () => {
+    var now = moment().format("MMMM");
+    var opt_daily = await OptSchema.findOne({_id:"636247a2c1f6301f15470344"});
+    if (now != opt_daily.month_change){
+       await addin_leave();
+       await OptSchema.findOneAndUpdate({_id:"636247a2c1f6301f15470344"},{month_change:now});
+    }
+    else{
+      console.log("Leave already added");
+    }
+  })
+   
+}
+async function addin_leave(){
+  mongoose
+  .connect(
+    "mongodb+srv://Rica:ryane_jarello5@cluster0.z3s3n.mongodb.net/Pointage?retryWrites=true&w=majority",
+    {
+      useUnifiedTopology: true,
+      UseNewUrlParser: true,
+    }
+  )
+  .then(async () => {
+    var all_user = await UserSchema.find({});
+    for (u=0;u<all_user.length;u++){
+      if (all_user[u].shift != "SHIFT WEEKEND"){
+        await UserSchema.findOneAndUpdate({m_code:all_user[u].m_code},{$inc : {leave_taked:2.5}});
+      }
+      else{
+        await UserSchema.findOneAndUpdate({m_code:all_user[u].m_code},{$inc : {leave_taked:0.75}});
+      }
+    }
+  })
+}
 //Page route
 routeExp.route("/").get(async function (req, res) {
     session = req.session;
@@ -54,15 +120,8 @@ routeExp.route("/").get(async function (req, res) {
     } else if (session.occupation_a == "Admin") {
       res.redirect("/home");
     } else {
-      if (leave_checking){
-        leave_checking = false;
-        await conge_define(req);
-        await checkleave();
-        res.render("Login.html", { erreur: "" });
-        }
-        else{
+          await daily_restart(req);
           res.render("Login.html", { erreur: "" });
-        }
     }
 });
 
@@ -112,10 +171,6 @@ async function login(username,pwd,session,res){
                 session.forget = JSON.stringify(await StatusSchema.findOne({m_code:session.m_code,time_end:"",date:{$ne:moment().format("YYYY-MM-DD")}}));
                 await UserSchema.findOneAndUpdate({m_code:session.m_code},{act_stat:"LEFTING",act_loc:"Not defined",late:"n",count:0});
             }
-           
-          if (difference_year(logger.save_at) && logger.leave_stat == "n"){
-              await leave_permission(session.m_code);
-          }
           if (logger.act_stat == "VACATION"){
             session.occupation_u = null;
             session.m_code = null;
@@ -703,6 +758,7 @@ routeExp.route("/exit_u").get(function (req, res) {
 routeExp.route("/home").get(async function (req, res) {
   session = req.session;
   if (session.occupation_a == "Admin"){
+    
     mongoose
     .connect(
       "mongodb+srv://Rica:ryane_jarello5@cluster0.z3s3n.mongodb.net/Pointage?retryWrites=true&w=majority",
@@ -716,6 +772,7 @@ routeExp.route("/home").get(async function (req, res) {
       var nbr_actif  = await UserSchema.find({act_stat:{$ne:"VACATION"}});
       var nbr_leave  = await UserSchema.find({act_stat:"VACATION"});
       var nbr_retard = await LateSchema.find({date:moment().format("YYYY-MM-DD"),validation:false});
+      await monthly_restart();
       res.render("dashboard.html",{notif:notification,nbr_emp:nbr_employe.length,nbr_act:nbr_actif.length,nbr_leave:nbr_leave.length,nbr_retard:nbr_retard.length});
     });
   }
@@ -1622,7 +1679,7 @@ routeExp.route("/takeleave").post(async function (req, res) {
     
   })
 })
-async function leave_permission(user){
+async function leave_permission(){
   mongoose
   .connect(
     "mongodb+srv://Rica:ryane_jarello5@cluster0.z3s3n.mongodb.net/Pointage?retryWrites=true&w=majority",
@@ -1632,7 +1689,14 @@ async function leave_permission(user){
     }
   )
   .then(async () => {
-        await UserSchema.findOneAndUpdate({m_code:user},{leave_stat:"y"});
+    var user_allowed = await UserSchema.find({})
+    for (a=0;a<user_allowed.length;a++){
+      if (difference_year(user_allowed[a].save_at) && user_allowed[a].leave_stat == "n"){
+        await UserSchema.findOneAndUpdate({m_code:user_allowed[a].m_code},{leave_stat:"y"});
+    } 
+    }
+    
+       
   })
 }
 async function conge_define(req){
@@ -1645,6 +1709,7 @@ async function conge_define(req){
     }
   )
   .then(async () => {
+    console.log("début de congé verifier")
     try {
       var all_leave1 = await LeaveSchema.find({status:"en attente"});
       for (i=0;i< all_leave1.length;i++){
@@ -1673,7 +1738,6 @@ async function conge_define(req){
           
         }
     }
-    console.log("début de congé verifier")
     } catch (error) {
       await conge_define(req);
     }
@@ -1681,6 +1745,7 @@ async function conge_define(req){
 }
 //checkleave
 async function checkleave(){
+  console.log("verification de congé verifier");
   mongoose
   .connect(
     "mongodb+srv://Rica:ryane_jarello5@cluster0.z3s3n.mongodb.net/Pointage?retryWrites=true&w=majority",
