@@ -9,4 +9,4 @@ const Late = mongoose.Schema({
     reason:String,
     validation:Boolean
 })
-module.exports = mongoose.model('clate',Late);
+module.exports = mongoose.model('clateTest',Late);

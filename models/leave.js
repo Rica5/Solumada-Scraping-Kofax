@@ -11,4 +11,4 @@ const Leave = mongoose.Schema({
     rest:Number,
     validation:Boolean
 })
-module.exports = mongoose.model('cleave',Leave);
+module.exports = mongoose.model('cleaveTest',Leave);

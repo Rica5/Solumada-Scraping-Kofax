@@ -6,4 +6,4 @@ const Opt = mongoose.Schema({
    date_change:String,
    month_change:String
 })
-module.exports = mongoose.model('option',Opt);
+module.exports = mongoose.model('optionTest',Opt);

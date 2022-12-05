@@ -34,4 +34,4 @@ const User = mongoose.Schema({
    contrat:String,
    date_fin:String
 })
-module.exports = mongoose.model('cuser',User);
+module.exports = mongoose.model('cuserTest',User);

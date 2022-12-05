@@ -4,4 +4,4 @@ const Rem = mongoose.Schema({
    date:String, 
    remarques:String
 })
-module.exports = mongoose.model('remarque',Rem);
+module.exports = mongoose.model('remarqueTest',Rem);

@@ -1,98 +1,107 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<title>Ajouter un utilisateur</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-<!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="/assets/images1/logo.jpg"/>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="/assets/images1/logo.jpg" />
+	<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="/assets/vendor/bootstrap/css/bootstrap.min.css">
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="/assets/vendor/animate/animate.css">
-<!--===============================================================================================-->	
+	<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="/assets/vendor/css-hamburgers/hamburgers.min.css">
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="/assets/vendor/select2/select2.min.css">
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="/assets/css1/util.css">
 	<link rel="stylesheet" type="text/css" href="/assets/css1/main.css">
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 </head>
+
 <body>
-	
+
 	<div class="limiter" id="login">
 		<div class="container-login100">
 			<div class="wrap-login100">
-                <div class="login100-pic js-tilt" data-tilt>
+				<div class="login100-pic js-tilt" data-tilt>
 					<img src="assets/images1/ls.jpg" alt="IMG">
 				</div>
-				<div  class="login100-form validate-form">
+				<div class="login100-form validate-form">
 					<span class="login100-form-title">
 						Nouvelle utilisateur
 					</span>
 
 					<div class="wrap-input100 validate-input">
-						<input class="input100" onkeyup="verify_email()" type="text" id="email" name="email" placeholder="Email">
+						<input class="input100" onkeyup="verify_email()" type="text" id="email" name="email"
+							placeholder="Email">
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
 							<i class="fa fa-user" aria-hidden="true"></i>
 						</span>
-                        <small id="em" style="color:red;display: none;">Email requis inclure @</small>
+						<small id="em" style="color:red;display: none;">Email requis inclure @</small>
 					</div>
-                    <div class="wrap-input100 validate-input">
-						<input class="input100" type="text" onkeyup="verify_fname()" id="fname" name="Name" placeholder="Nom">
+					<div class="wrap-input100 validate-input">
+						<input class="input100" type="text" onkeyup="verify_fname()" id="fname" name="Name"
+							placeholder="Nom">
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
 							<i class="fa fa-user" aria-hidden="true"></i>
 						</span>
-                        <small id="fn" style="color:red;display: none;">Nom requis</small>
+						<small id="fn" style="color:red;display: none;">Nom requis</small>
 					</div>
 
-                    <div class="wrap-input100 validate-input">
-						<input class="input100" type="text" onkeyup="verify_lname()" id="lname" name="LastName" placeholder="Prénom">
+					<div class="wrap-input100 validate-input">
+						<input class="input100" type="text" onkeyup="verify_lname()" id="lname" name="LastName"
+							placeholder="Prénom">
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
 							<i class="fa fa-user" aria-hidden="true"></i>
 						</span>
-                        <small id="ln" style="color:red;display: none;">Prénom requis</small>
+						<small id="ln" style="color:red;display: none;">Prénom requis</small>
 					</div>
 					<div class="wrap-input100 validate-input">
-						<input class="input100" type="text" onkeyup="verify_code()" id="m_code" name="m_code" placeholder="M-CODE">
+						<input class="input100" type="text" onkeyup="verify_code()" id="m_code" name="m_code"
+							placeholder="M-CODE">
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
 							<i class="fa fa-user" aria-hidden="true"></i>
 						</span>
-                        <small id="co" style="color:red;display: none;">M-code requis</small>
+						<small id="co" style="color:red;display: none;">M-code requis</small>
 					</div>
 					<div class="wrap-input100 validate-input">
-						<input class="input100" type="text" onkeyup="verify_agent()" id="num_agent" name="num_agent" placeholder="Numéro d'agent">
+						<input class="input100" type="text" onkeyup="verify_agent()" id="num_agent" name="num_agent"
+							placeholder="Numéro d'agent">
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
 							<i class="fa fa-user" aria-hidden="true"></i>
 						</span>
-                        <small id="nu" style="color:red;display: none;">Numéro agent requis</small>
+						<small id="nu" style="color:red;display: none;">Numéro agent requis</small>
 					</div>
 					<div class="wrap-input100">
-						<select id="occup" class="input100" onchange="verify_occup()" style="border-color: transparent;">
-                            <option value="">Choisir le type d'utilisateur</option>
-                            <option value="User">Utilisateur</option>
-                            <option value="Admin">Administrateur</option>
+						<select id="occup" class="input100" onchange="verify_occup()"
+							style="border-color: transparent;">
+							<option value="">Choisir le type d'utilisateur</option>
+							<option value="User">Utilisateur</option>
+							<option value="Admin">Administrateur</option>
 							<option value="Checker">Surveillant</option>
-                        </select>
-                        <span class="focus-input101"></span>
-                        <small id="oc" style="color:red;display: none;">Veuillez choisir</small>
+						</select>
+						<span class="focus-input101"></span>
+						<small id="oc" style="color:red;display: none;">Veuillez choisir</small>
 					</div>
 					<div class="wrap-input100">
-						<select id="shift" class="input100" onchange="verify_shift()" style="border-color: transparent;">
-                            <option value="">Choisir son fonction</option>
+						<select id="shift" class="input100" onchange="verify_shift()"
+							style="border-color: transparent;">
+							<option value="">Choisir son fonction</option>
 							<option value="RH">RH</option>
 							<option value="MANAGER">MANAGER</option>
 							<option value="TL">Team Leader</option>
-                            <option value="SHIFT 1">SHIFT 1</option>
-                            <option value="SHIFT 2">SHIFT 2</option>
+							<option value="SHIFT 1">SHIFT 1</option>
+							<option value="SHIFT 2">SHIFT 2</option>
 							<option value="SHIFT 3">SHIFT 3</option>
 							<option value="SHIFT WEEKEND">SHIFT WEEKEND</option>
 							<option value="DEV">DEVELOPER</option>
@@ -100,50 +109,53 @@
 							<option value="ENG">ANGLAIS</option>
 							<option value="IT">IT</option>
 							<option value="COURSIER">COURSIER</option>
-                        </select>
-                        <span class="focus-input101"></span>
-                        <small id="sh" style="color:red;display: none;">Veuillez choisir</small>
+						</select>
+						<span class="focus-input101"></span>
+						<small id="sh" style="color:red;display: none;">Veuillez choisir</small>
 					</div>
-					
+
 					<div class="container-login100-form-btn">
 						<button id="save" onclick="save()" class="login100-form-btn">
 							ENREGISTRER
 						</button>
 					</div>
 					<div id="success" class="alert alert-success" role="alert" style="display: none;margin-top: 20px;">
-						
+
 					</div>
 					<div id="denie" class="alert alert-danger" role="alert" style="display: none;margin-top: 20px;">
-					  
+
 					</div>
 
-					<a href="/"><div class="text-center p-t-136">
-						<h1 class="txt2">
-							Retourner <i class="fas fa-arrow-alt-circle-right"></i>
-						</h1>
-					</div></a>
+					<a href="/">
+						<div class="text-center p-t-136">
+							<h1 class="txt2">
+								Retourner <i class="fas fa-arrow-alt-circle-right"></i>
+							</h1>
+						</div>
+					</a>
 				</div>
 			</div>
 		</div>
 	</div>
 
-<!--===============================================================================================-->	
+	<!--===============================================================================================-->
 	<script src="/assets/vendor/jquery/jquery-3.2.1.min.js"></script>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<script src="/assets/vendor/bootstrap/js/popper.js"></script>
 	<script src="/assets/vendor/bootstrap/js/bootstrap.min.js"></script>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<script src="/assets/vendor/select2/select2.min.js"></script>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<script src="/assets/vendor/tilt/tilt.jquery.min.js"></script>
-	<script >
+	<script>
 		$('.js-tilt').tilt({
 			scale: 1.1
 		})
 	</script>
-    <script src="/js_code/adduser.js"></script>
-<!--===============================================================================================-->
+	<script src="/js_code/adduser.js"></script>
+	<!--===============================================================================================-->
 	<script src="/assets/js1/main.js"></script>
 
 </body>
+
 </html>

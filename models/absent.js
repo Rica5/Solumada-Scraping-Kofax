@@ -11,4 +11,4 @@ const Absent = mongoose.Schema({
     validation:Boolean,
     status:String,
 })
-module.exports = mongoose.model('cabsent',Absent);
+module.exports = mongoose.model('cabsentTest',Absent);

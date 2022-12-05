@@ -10,4 +10,4 @@ const Status = mongoose.Schema({
     worktime:Number,
     locaux:String,
 })
-module.exports = mongoose.model('cstatus',Status);
+module.exports = mongoose.model('cstatusTest',Status);

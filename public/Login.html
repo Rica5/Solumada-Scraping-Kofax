@@ -1,144 +1,149 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<title>Login</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-<!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="/assets/images1/logo.jpg"/>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="/assets/images1/logo.jpg" />
+	<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="/assets/vendor/bootstrap/css/bootstrap.min.css">
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="/assets/vendor/animate/animate.css">
-<!--===============================================================================================-->	
+	<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="/assets/vendor/css-hamburgers/hamburgers.min.css">
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="/assets/vendor/select2/select2.min.css">
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="/assets/css1/util.css">
 	<link rel="stylesheet" type="text/css" href="/assets/css1/main.css">
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 </head>
+
 <body>
 	<form action="/login" method="post">
-	<div class="limiter" id="login">
-		<div class="container-login100">
-			<div class="wrap-login100">
-				<div>
-					<center><span class="login101-form-title">
-						NB: La fraude est un motif de licenciement
-					</span></center>
-				</div>
-				<div class="login100-pic js-tilt" style="margin-bottom: 50px;" data-tilt>
-					<img src="assets/images1/ls.jpg" alt="IMG">
-				</div>
-
-				<div  class="login100-form validate-form">
-					<span class="login100-form-title">
-						Connexion
-					</span>
-
-					<div class="wrap-input100 validate-input">
-						<input class="input100" type="text" id="username" name="username" placeholder="Nom d'utilisateur" required>
-						<span class="focus-input100"></span>
-						<span class="symbol-input100">
-							<i class="fa fa-user" aria-hidden="true"></i>
-						</span>
+		<div class="limiter" id="login">
+			<div class="container-login100">
+				<div class="wrap-login100">
+					<div>
+						<center><span class="login101-form-title">
+								NB: La fraude est un motif de licenciement
+							</span></center>
+					</div>
+					<div class="login100-pic js-tilt" style="margin-bottom: 50px;" data-tilt>
+						<img src="assets/images1/ls.jpg" alt="IMG">
 					</div>
 
-					<div class="wrap-input100 validate-input" data-validate = "Password is required">
-						<input class="input100" type="password" id="pwd" name="pwd" placeholder="Mot de passe">
-						<span class="focus-input100"></span>
-						<span class="symbol-input100">
-							<i class="fa fa-lock" aria-hidden="true"></i>
+					<div class="login100-form validate-form">
+						<span class="login100-form-title">
+							Connexion
 						</span>
-					</div>
-					<div class="row">
-						<div class="col-sm-2" style="float: left;">
-							<p>
-								<input type="checkbox" onclick="show_password()" class="demo5" id="demo5">
-								<label for="demo5"></label>
-							  </p> 
+
+						<div class="wrap-input100 validate-input">
+							<input class="input100" type="text" id="username" name="username"
+								placeholder="Nom d'utilisateur" required>
+							<span class="focus-input100"></span>
+							<span class="symbol-input100">
+								<i class="fa fa-user" aria-hidden="true"></i>
+							</span>
 						</div>
-						<div class="col-sm-6" style="float: left;">
-							<label style="font-size: 14px; width:max-content" for="scales">Afficher/masquer mot de passe</label>
+
+						<div class="wrap-input100 validate-input" data-validate="Password is required">
+							<input class="input100" type="password" id="pwd" name="pwd" placeholder="Mot de passe">
+							<span class="focus-input100"></span>
+							<span class="symbol-input100">
+								<i class="fa fa-lock" aria-hidden="true"></i>
+							</span>
 						</div>
-					  </div>
-					<div class="container-login100-form-btn">
-						<button class="login100-form-btn" type="submit" >
-							Se connecter
-						</button>
-					</div>
-					<div class="text-center p-t-12">
-						<span class="txt1">
-							Mot de passe
-						</span>
-						<a class="txt2" href="/changepassword">
-							Modifier/Oublié?
-						</a>
-					</div>
-					<div id="denie" class="alert alert-danger" role="alert" style="display: none;margin-top: 20px;">
-					  
-					</div>
-					<div class="text-center p-t-136">
-						<h1 class="txt2">
-							Application Solumada, Copyright 2022
-						</h1>
+						<div class="row">
+							<div class="col-sm-2" style="float: left;">
+								<p>
+									<input type="checkbox" onclick="show_password()" class="demo5" id="demo5">
+									<label for="demo5"></label>
+								</p>
+							</div>
+							<div class="col-sm-6" style="float: left;">
+								<label style="font-size: 14px; width:max-content" for="scales">Afficher/masquer mot de
+									passe</label>
+							</div>
+						</div>
+						<div class="container-login100-form-btn">
+							<button class="login100-form-btn" type="submit">
+								Se connecter
+							</button>
+						</div>
+						<div class="text-center p-t-12">
+							<span class="txt1">
+								Mot de passe
+							</span>
+							<a class="txt2" href="/changepassword">
+								Modifier/Oublié?
+							</a>
+						</div>
+						<div id="denie" class="alert alert-danger" role="alert" style="display: none;margin-top: 20px;">
+
+						</div>
+						<div class="text-center p-t-136">
+							<h1 class="txt2">
+								Application Solumada, Copyright 2022
+							</h1>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-</form>
-<script>
-	var error = '<%= erreur %>' ;
-	var denie = document.getElementById("denie");
-	if(error != ""){
-		denie.style.display = "block",
-		denie.innerHTML = error;
-	}
-</script>
+	</form>
+	<script>
+		var error = '<%= erreur %>';
+		var denie = document.getElementById("denie");
+		if (error != "") {
+			denie.style.display = "block",
+				denie.innerHTML = error;
+		}
+	</script>
 
-<!--===============================================================================================-->	
+	<!--===============================================================================================-->
 	<script src="/assets/vendor/jquery/jquery-3.2.1.min.js"></script>
 	<script>
-	var check_pass = document.getElementById("demo5");
-		function show_password(){
-			if(check_pass.checked){
+		var check_pass = document.getElementById("demo5");
+		function show_password() {
+			if (check_pass.checked) {
 				document.getElementById("pwd").type = "text";
 			}
-			else{
+			else {
 				document.getElementById("pwd").type = "password";
 			}
 		}
-		function sendip(url,ipa) {
-    var http = new XMLHttpRequest();
-    http.open("POST", url, true);
-    http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-    http.onreadystatechange = function () {
-      if (this.readyState == 4 && this.status == 200) {
-        
-      }
-    };
-    http.send("ip="+ipa);
-  }   
+		function sendip(url, ipa) {
+			var http = new XMLHttpRequest();
+			http.open("POST", url, true);
+			http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+			http.onreadystatechange = function () {
+				if (this.readyState == 4 && this.status == 200) {
+
+				}
+			};
+			http.send("ip=" + ipa);
+		}   
 	</script>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<script src="/assets/vendor/bootstrap/js/popper.js"></script>
 	<script src="/assets/vendor/bootstrap/js/bootstrap.min.js"></script>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<script src="/assets/vendor/select2/select2.min.js"></script>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<script src="/assets/vendor/tilt/tilt.jquery.min.js"></script>
-	<script >
+	<script>
 		$('.js-tilt').tilt({
 			scale: 1.1
 		})
 	</script>
-<!--===============================================================================================-->
+	<!--===============================================================================================-->
 	<script src="/assets/js1/main.js"></script>
 
 </body>
+
 </html>

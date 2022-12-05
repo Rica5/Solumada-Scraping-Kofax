@@ -291,6 +291,7 @@
                       <thead>
                         <tr>
                           <th>Nom de l'employee</th>
+                          <th>M_code</th>
                           <th>Locaux</th>
                           <th>Fonction</th>
                           <th>Status</th>
@@ -301,6 +302,7 @@
                           <% if (user.occupation == "User") { %>
                             <tr>
                               <td align="center"><%= user.first_name %> <%= user.last_name %></td>
+                              <td align="center"><%= user.m_code %></td>
                               <td id ="l <%= user.m_code %>"><%= user.act_loc %> </td>
                               <td><%= user.shift %> </td>
                               <% if (user.act_stat == "NONE") { %>
