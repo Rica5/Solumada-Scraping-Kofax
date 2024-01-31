@@ -15,8 +15,8 @@ let link = link1                                                                
 /* create browser */
 async function createBrowser(){
     const browser = await puppeteer.launch({
-        ignoreHTTPSErrors: true,
-        headless: true,
+      ignoreHTTPSErrors: true,
+        headless:"new",
         devtools: false,
         args: ['--no-sandbox', '--disable-setuid-sandbox']
     });
