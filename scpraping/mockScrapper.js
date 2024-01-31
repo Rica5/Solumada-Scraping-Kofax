@@ -16,7 +16,7 @@ let link = link1                                                                
 async function createBrowser(){
     const browser = await puppeteer.launch({
         ignoreHTTPSErrors: true,
-        headless: true,
+        headless: false,
         devtools: false,
         args: ['--no-sandbox', '--disable-setuid-sandbox']
     });
@@ -82,7 +82,7 @@ async function fetchData(){
         .catch((e)=>console.log('Goto validation Fail page'))
     
         // Wait for table selector before scraping
-        await page.waitForSelector('.x-grid3-row-table tr',{visible:true,timeout: 5000})
+        await page.waitForSelector('.x-grid3-row-table tr',{visible:true,timeout: 30000})
             .then(()=>console.log('Selector ok'))
             // error on timeout
 
